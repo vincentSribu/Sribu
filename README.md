@@ -1,2 +1,2 @@
 # Sribu
-Projects for Sribu
+Projects collection for Sribu
